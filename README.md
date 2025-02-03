@@ -1,6 +1,6 @@
 Tasks:
 
-** Required
+*** Required ***
 - [x] Repo initialisation
 - [x] Project creation
 - [x] Eslint implementation
@@ -9,6 +9,6 @@ Tasks:
 
 - [ ] Backend initialisation
 
-** Optional
+*** Optional ***
 - [ ] Integrate Husky
 - [ ] Add commitlinter
