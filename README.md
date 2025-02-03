@@ -1,10 +1,10 @@
 Tasks:
 
 ** Required
-- [ ] Repo initialisation
-- [ ] Project creation
-- [ ] Eslint implementation
-- [ ] Shadcn integration
+- [x] Repo initialisation
+- [x] Project creation
+- [x] Eslint implementation
+- [x] Shadcn integration
 - [ ] Deploy on vercel  
 - [ ] Backend initialisation
 
