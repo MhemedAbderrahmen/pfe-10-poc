@@ -5,7 +5,8 @@ Tasks:
 - [x] Project creation
 - [x] Eslint implementation
 - [x] Shadcn integration
-- [ ] Deploy on vercel  
+- [x] Deploy on vercel  
+
 - [ ] Backend initialisation
 
 ** Optional
